@@ -62,7 +62,7 @@ local Themes = {
         Main = Color3.fromRGB(26, 27, 38),
         Shadow = Color3.fromRGB(26, 27, 38),
         SliderOuter = Color3.fromRGB(80, 0, 255),
-        SliderInner = Color3.fromRGB(80, 0, 255),
+        SliderInner = Color3.fromRGB(25, 25, 25),
         TabUIStroke = Color3.fromRGB(40, 50, 255),
         InputPlaceHolder = Color3.fromRGB(70, 73, 94),
         ToggleOuter = Color3.fromRGB(56, 59, 83),
@@ -73,7 +73,7 @@ local Themes = {
         ToggleInnerEnabled = Color3.fromRGB(80, 0, 255),
         ContainerHolder = Color3.fromRGB(32, 32, 47),
         HighlightUIStroke = Color3.fromRGB(40, 50, 255),
-        Highlight = Color3.fromRGB(253, 191, 67)
+        Highlight = Color3.fromRGB(80, 0, 255)
     },
     ["Starry Night"] = {
         Topbar = Color3.fromRGB(21, 26, 33),
